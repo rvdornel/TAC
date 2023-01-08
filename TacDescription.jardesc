@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Ricardo/Desktop/tac.jar"/>
+    <options buildIfNeeded="true" compress="false" descriptionLocation="/TAC/TacDescription.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=TAC/src&lt;tac{TacExecutionEngine.java[TacExecutionEngine" manifestLocation="/TAC/TacManifest2" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/TAC/.classpath"/>
+        <file path="/TAC/.project"/>
+        <file path="/TAC/TacManifest"/>
+        <javaElement handleIdentifier="=TAC/src"/>
+    </selectedElements>
+</jardesc>
